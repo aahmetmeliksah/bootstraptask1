@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: #e9ecef;
+}
+
+.subtitle-style {
+  color: #ceab1c;
+  text-align: center;
+}
+
+.row > h1 {
+  margin-left: 28rem;
+  color: red;
+}
+
+.btn-hakkimizda {
+  margin-left: 45rem;
+  border-radius: 7px;
+  background-color: rgba(44, 44, 233, 0.842);
+  color: antiquewhite;
+  height: 50px;
+  width: 100px;
+}
+
+.btn-hakkimizda:hover {
+  box-shadow: 5px 5px 5px black;
+  transition: 0.5s;
+}
+
+.list-group {
+  color: rgb(187, 187, 166);
+  cursor: pointer;
+}
+
+.list-hover {
+  color: red;
+}
+
+.list-hover:hover {
+  color: #e9ecef;
+  text-decoration: none;
+}

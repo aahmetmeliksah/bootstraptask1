@@ -1,0 +1,28 @@
+body {
+  align-items: center;
+  background-color: #e9ecef;
+}
+
+h1,
+h5 {
+  color: #ceab1c;
+}
+
+.card-img-top {
+  width: 50rem;
+  margin-left: 10rem;
+}
+
+.card-group {
+  width: 80%;
+  margin-left: 9rem;
+}
+
+.list-hover {
+  color: red;
+}
+
+.list-hover:hover {
+  color: #e9ecef;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.card-img-top {
+  height: 25rem;
+}
+
+.list-hover {
+  color: red;
+}
+
+.list-hover:hover {
+  color: #e9ecef;
+  text-decoration: none;
+}
